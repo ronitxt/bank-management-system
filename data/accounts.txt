@@ -1,0 +1,1 @@
+# Bank account records are stored as: accountNumber|customerName|balanceInCents
